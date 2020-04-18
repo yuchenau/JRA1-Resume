@@ -16,11 +16,11 @@
                     width: 40%;
                     border: 3px solid white;
                 }
-                img:hover {
-                    margin-bottom: +10px;
-                    @include shadow();
-                    transition: 1s;
-                }
+                // img:hover {
+                //     margin-bottom: +10px;
+                //     @include shadow();
+                //     transition: 1s;
+                // }
             }
             &__name {
                 h2 {

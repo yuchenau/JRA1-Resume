@@ -60,7 +60,7 @@ header {
     background-color: #2eca7f; }
     .body .wrapper .portrait {
       padding: 10px 0;
-      background: url(../../../image/sp_main_bg.png) no-repeat center center;
+      background: url(./image/sp_main_bg.png) no-repeat center center;
       background-size: cover;
       text-align: center; }
       .body .wrapper .portrait figure img {
